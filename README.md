@@ -87,7 +87,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 | Project | Description | Main Areas |
 |---|---|---|
-| [**Minishell**](https://github.com/Chigata1er/minishell)) | Unix shell implementation supporting command execution, environment variables, built-in commands, pipes, redirections, signals, and process management. | C · Unix · Processes · Parsing |
+| [**Minishell**](https://github.com/Chigata1er/minishell) | Unix shell implementation supporting command execution, environment variables, built-in commands, pipes, redirections, signals, and process management. | C · Unix · Processes · Parsing |
 | **Cub3D** | Raycasting-based 3D graphics project inspired by early first-person games, with map parsing, textures, movement, and event handling. | C · MiniLibX · Raycasting · Graphics |
 | [**Webserv**](https://github.com/T-K-Lien-TRAN/webserver) | HTTP server project covering request parsing, routing, configuration, methods, error handling, CGI, networking, and containerized testing. | C++ · HTTP · Sockets · Docker |
 
