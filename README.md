@@ -30,8 +30,8 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 - Based in **Nice, France**
 - Experienced in **C/C++ systems programming**
-- Building **web and mobile applications with TypeScript**
-- Interested in **software architecture, DevOps, cybersecurity, data, and algorithms**
+- Building **web and mobile applications with Html, CSS, TypeScript, JavaScript, Vue.js, Node.js, NestJS, PHP, React Native, Prisma, Swagger, Directus, MySQL, SQLite, PostgreSQL**
+- Interested in **web and mobile development, software architecture, DevOps, cybersecurity, data, and algorithms**
 - Comfortable working in multilingual environments: **French, English, and Vietnamese**
 
 ---
@@ -89,12 +89,13 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 |---|---|---|
 | [**Minishell**](https://github.com/T-K-Lien-TRAN/Minishell) | Unix shell implementation supporting command execution, environment variables, built-in commands, pipes, redirections, signals, and process management. | C · Unix · Processes · Parsing |
 | **Cub3D** | Raycasting-based 3D graphics project inspired by early first-person games, with map parsing, textures, movement, and event handling. | C · MiniLibX · Raycasting · Graphics |
-| [**Webserver**](https://github.com/T-K-Lien-TRAN/webserver) | HTTP server project covering request parsing, routing, configuration, methods, error handling, CGI, networking, and containerized testing. | C++ · HTTP · Sockets · Docker |
+| [**Webserv**](https://github.com/T-K-Lien-TRAN/webserver) | HTTP server project covering request parsing, routing, configuration, methods, error handling, CGI, networking, and containerized testing. | C++ · HTTP · Sockets · Docker |
 
 ### DevOps, Cybersecurity & Data
 
 | Project | Description | Main Areas |
 |---|---|---|
+| **Inception** | Containerized infrastructure project built with Docker Compose, featuring independently configured services, secure networking, persistent volumes, and automated deployment. | Docker · Docker Compose · NGINX · WordPress · MariaDB |
 | **Inception of Things** | Infrastructure and GitOps project using lightweight Kubernetes environments, automated deployment, service configuration, and continuous delivery. | Kubernetes · K3s · Vagrant · Argo CD |
 | **Override** | Cybersecurity project based on reverse engineering and binary exploitation across multiple challenge levels. | Linux · GDB · Reverse Engineering · Exploitation |
 | **DSLR** | Data-science project involving exploratory data analysis, visualization, feature selection, and logistic-regression implementation. | Python · Data Analysis · Visualization · Machine Learning |
