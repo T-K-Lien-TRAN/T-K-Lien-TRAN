@@ -52,7 +52,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -106,7 +106,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 ## Additional Engineering Skills
 
-- **Hydrological and hydraulic modelling:** HEC-RAS, MIKE 11, MIKE SHE, MIKE URBAN, MIKE 21, MIKE FLOOD
+- **Hydrological and hydraulic modelling:** R, HEC-RAS, MIKE 11, MIKE SHE, MIKE URBAN, MIKE 21, MIKE FLOOD
 - **GIS and spatial analysis:** ArcGIS, MapInfo
 - **Engineering and design:** AutoCAD, SAP, GEO-SLOPE
 - **Project and office tools:** Microsoft Project, Word, Excel, PowerPoint, Access
