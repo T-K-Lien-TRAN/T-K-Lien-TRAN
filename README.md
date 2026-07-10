@@ -31,7 +31,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 - Based in **Nice, France**
 - Experienced in **C/C++ systems programming**
 - Building **web and mobile applications with Html, CSS, TypeScript, JavaScript, Vue.js, Node.js, NestJS, PHP, React Native, Prisma, Swagger, Directus, MySQL, SQLite, PostgreSQL**
-- Interested in **web and mobile development, software architecture, DevOps, cybersecurity, data, and algorithms**
+- Interested in **web and mobile development, software architecture, DevOps, cybersecurity, data and database, and algorithms**
 - Comfortable working in multilingual environments: **French, English, and Vietnamese**
 
 ---
