@@ -97,7 +97,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 |---|---|---|
 | **Inception** | Containerized infrastructure project built with Docker Compose, featuring independently configured services, secure networking, persistent volumes, and automated deployment. | Docker · Docker Compose · NGINX · WordPress · MariaDB |
 | **Inception of Things** | Infrastructure and GitOps project using lightweight Kubernetes environments, automated deployment, service configuration, and continuous delivery. | Kubernetes · K3s · Vagrant · Argo CD |
-| **Override** | Cybersecurity project based on reverse engineering and binary exploitation across multiple challenge levels. | Linux · GDB · Reverse Engineering · Exploitation |
+| [**Override**](https://github.com/ktroude/42_Override) | Cybersecurity project based on reverse engineering and binary exploitation across multiple challenge levels. | Linux · GDB · Reverse Engineering · Exploitation |
 | **DSLR** | Data-science project involving exploratory data analysis, visualization, feature selection, and logistic-regression implementation. | Python · Data Analysis · Visualization · Machine Learning |
 
 > Some projects were completed as team projects or are not yet available as public repositories. Direct links will be added when their public versions are available.
