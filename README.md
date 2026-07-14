@@ -30,8 +30,8 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 - Based in **Nice, France**
 - Experienced in **C/C++ systems programming**
-- Building **web and mobile applications with Html, CSS, TypeScript, JavaScript, Vue.js, Node.js, NestJS, PHP, React Native, Prisma, Swagger, Directus, MySQL, SQLite, PostgreSQL**
-- Interested in **web and mobile development, software architecture, DevOps, cybersecurity, data and database, and algorithms**
+- Building **web and mobile applications with HTML, CSS, TypeScript, JavaScript, Vue.js, Node.js, NestJS, PHP, React Native, Prisma, Swagger, Directus, MySQL, SQLite, PostgreSQL**
+- Interested in **web and mobile development, software architecture, DevOps, cybersecurity, data and database, AI and algorithms**
 - Comfortable working in multilingual environments: **French, English, and Vietnamese**
 
 ---
@@ -98,7 +98,8 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 | [**Inception**](https://github.com/T-K-Lien-TRAN/Inception_E) | Containerized infrastructure project built with Docker Compose, featuring independently configured services, secure networking, persistent volumes, and automated deployment. | Docker · Docker Compose · NGINX · WordPress · MariaDB |
 | [**Inception of Things**](https://github.com/T-K-Lien-TRAN/Inception-of-Things)| Infrastructure and GitOps project using lightweight Kubernetes environments, automated deployment, service configuration, and continuous delivery. | Kubernetes · K3s · Vagrant · Argo CD |
 | [**Override**](https://github.com/ktroude/42_Override) | Cybersecurity project based on reverse engineering and binary exploitation across multiple challenge levels. | Linux · GDB · Reverse Engineering · Exploitation |
-| [**DSLR**](https://github.com/Manwe314/dslr) | Data-science project involving exploratory data analysis, visualization, feature selection, and logistic-regression implementation. | Python · Data Analysis · Visualization · Machine Learning |
+| [**DSLR**](https://github.com/Manwe314/dslr) | Data-science project involving exploratory data analysis, visualization, feature selection, and training and prediction of logistic-regression model. | Python · Data Analysis · Visualization · Machine Learning |
+| [**Linear Regression**](https://github.com/T-K-Lien-TRAN/Linear-Regression)| Data-science project involving training and prediction of linear-regression model. | Python · Machine Learning |
 
 > Some projects were completed as team projects or are not yet available as public repositories. Direct links will be added when their public versions are available.
 
