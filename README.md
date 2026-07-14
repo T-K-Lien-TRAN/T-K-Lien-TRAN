@@ -29,7 +29,7 @@ I am a **Full-Stack Developer** studying at **42 Nice**, with a multidisciplinar
 My work covers the complete development lifecycle: requirements analysis, software architecture, implementation, API and database integration, testing, debugging, deployment, documentation, and team collaboration.
 
 - Based in **Nice, France**
-- Experienced in **C/C++ systems programming**
+- Experienced in **C/C++ systems programming and full-stack software development**
 - Building **web and mobile applications with HTML, CSS, TypeScript, JavaScript, Vue.js, Node.js, NestJS, PHP, React Native, Prisma, Swagger, Directus, MySQL, SQLite, PostgreSQL**
 - Interested in **web and mobile development, software architecture, DevOps, cybersecurity, data and database, AI and algorithms**
 - Comfortable working in multilingual environments: **French, English, and Vietnamese**
