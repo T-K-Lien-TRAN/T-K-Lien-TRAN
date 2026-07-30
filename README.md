@@ -30,7 +30,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 - Based in **Nice, France**
 - Experienced in **C/C++ systems programming and full-stack software development**
-- Building **web and mobile applications with HTML, CSS, TypeScript, JavaScript, Vue.js, Node.js, NestJS, PHP, React, React Native, Prisma, Swagger, Directus, MySQL, SQLite, PostgreSQL, as well as developing data science solutions with Python**
+- Building **web and mobile applications with HTML, CSS, TypeScript, JavaScript, Vue.js, Node.js, NestJS, PHP, React, React Native, Prisma, Swagger, Directus, MySQL, SQLite, PostgreSQL, as well as developing data science solutions with Python and AI**
 - Interested in **web and mobile development, software architecture, DevOps, data and database, AI and algorithms**
 - Comfortable working in multilingual environments: **French, English, and Vietnamese**
 
