@@ -122,7 +122,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 - API and database architecture
 - Cloud-native deployment and DevOps
 - Secure software development
-- Data engineering and applied machine learning
+- Data engineering, applied machine learning and AI
 - Collaborative, team-based software projects
 
 ---
