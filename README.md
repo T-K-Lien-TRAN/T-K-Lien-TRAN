@@ -75,7 +75,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 ## Featured Projects
 
-### Full-Stack, Web & Mobile Applications
+### Full-Stack, Web & Mobile Applications and AI
 
 | Project | Description | Main Areas |
 |---|---|---|
