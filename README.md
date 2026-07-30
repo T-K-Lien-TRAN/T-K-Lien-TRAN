@@ -13,7 +13,7 @@ To display this README on your GitHub profile:
 
 ### Full-Stack Developer · 42 Nice · Engineering & Research Background
 
-Building reliable web, mobile, systems, DevOps, cybersecurity, and data-driven applications.
+Building reliable web, mobile, systems, DevOps, AI, and data-driven applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-T--K--Lien--TRAN-181717?style=for-the-badge&logo=github)](https://github.com/T-K-Lien-TRAN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thi_Kim_Lien_TRAN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tran-thi-kim-lien-81bb75a7/)
@@ -31,7 +31,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 - Based in **Nice, France**
 - Experienced in **C/C++ systems programming and full-stack software development**
 - Building **web and mobile applications with HTML, CSS, TypeScript, JavaScript, Vue.js, Node.js, NestJS, PHP, React, React Native, Prisma, Swagger, Directus, MySQL, SQLite, PostgreSQL, as well as developing data science solutions with Python**
-- Interested in **web and mobile development, software architecture, DevOps, cybersecurity, data and database, AI and algorithms**
+- Interested in **web and mobile development, software architecture, DevOps, data and database, AI and algorithms**
 - Comfortable working in multilingual environments: **French, English, and Vietnamese**
 
 ---
