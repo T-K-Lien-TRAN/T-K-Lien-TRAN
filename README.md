@@ -120,7 +120,6 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 - Advanced full-stack web and mobile development
 - API and database architecture
-- Cloud-native deployment and DevOps
 - Secure software development
 - Data science, applied machine learning and AI
 - Collaborative, team-based software projects
@@ -139,6 +138,6 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 
 <div align="center">
 
-### “Every problem has its solution. We just need to persevere until we find it.”
+### “Every problem has its solution. We just need to persevere until we find it. Practice makes perfect”
 
 </div>
