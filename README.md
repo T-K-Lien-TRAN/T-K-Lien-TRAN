@@ -13,7 +13,7 @@ To display this README on your GitHub profile:
 
 ### Full-Stack Developer/Data Scientist · 42 Nice · Engineering & Research Background
 
-Building reliable web, mobile, systems, DevOps, AI, and data-driven applications.
+Building reliable web, mobile, systems, AI, and data-driven applications and developing solutions of data science.
 
 [![GitHub](https://img.shields.io/badge/GitHub-T--K--Lien--TRAN-181717?style=for-the-badge&logo=github)](https://github.com/T-K-Lien-TRAN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thi_Kim_Lien_TRAN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tran-thi-kim-lien-81bb75a7/)
