@@ -11,7 +11,7 @@ To display this README on your GitHub profile:
 
 # Thi Kim Lien TRAN
 
-### Full-Stack Developer · 42 Nice · Engineering & Research Background
+### Full-Stack Developer/Data Scientist · 42 Nice · Engineering & Research Background
 
 Building reliable web, mobile, systems, DevOps, AI, and data-driven applications.
 
@@ -24,7 +24,7 @@ Building reliable web, mobile, systems, DevOps, AI, and data-driven applications
 
 ## About Me
 
-I am a **Full-Stack Developer** studying at **42 Nice**, with a multidisciplinary background in engineering, scientific research, project management, and entrepreneurship.
+I am a **Full-Stack Developer/Data Scientist** studying at **42 Nice**, with a multidisciplinary background in engineering, scientific research, project management, and entrepreneurship.
 
 My work covers the complete development lifecycle: requirements analysis, software architecture, implementation, API and database integration, testing, debugging, deployment, documentation, and team collaboration.
 
@@ -122,7 +122,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 - API and database architecture
 - Cloud-native deployment and DevOps
 - Secure software development
-- Data engineering, applied machine learning and AI
+- Data science, applied machine learning and AI
 - Collaborative, team-based software projects
 
 ---
