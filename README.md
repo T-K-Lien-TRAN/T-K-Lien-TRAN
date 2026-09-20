@@ -82,6 +82,7 @@ My work covers the complete development lifecycle: requirements analysis, softwa
 | [**Transcendence**](https://github.com/T-K-Lien-TRAN/Transcendence) | Full-stack online multiplayer platform with frontend and backend applications, user management, APIs, database integration, testing, and containerized deployment. | TypeScript · HTML · Docker · Full Stack |
 | **Red Tetris** | Real-time multiplayer Tetris game with room management, player synchronization, frontend state management, and client-server communication. | JavaScript/TypeScript · Vue.js · Node.js · WebSockets · Prisma · SQLite |
 | **Music Room** | Collaborative web and mobile music application with authentication, user profiles, rooms, playlists, social features, APIs, and database integration. | TypeScript · NestJS · React · React Native · Expo · Prisma · PostgreSQL · Swagger · Directus |
+ [**Swifty Companion**](https://github.com/T-K-Lien-TRAN/Swifty-Companion) | Cross-platform application for searching 42 Network students and displaying their profiles, cursus level, campus, wallet, evaluation points, skills, and projects using the 42 API and OAuth 2.0 authentication. Includes secure token management and a backend proxy server. | Flutter · Dart · 42 API · OAuth 2.0 · REST API · Backend Server · Android/IOS · Web |
 | **Gomoku** | Strategy board-game project focused on game rules, algorithms, decision-making, performance, and interactive gameplay. | Algorithms · Game Logic · Game Graphics · Artificial Intelligence · C++ · SFML|
 
 ### Systems, Graphics & Networking
